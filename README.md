@@ -6,6 +6,7 @@ This is a Simple flask app that contains a list of food recipe and allow CRUD op
 
 - Python
 - Flask
+- jsonify
 
 #### live link
 _no live view_
